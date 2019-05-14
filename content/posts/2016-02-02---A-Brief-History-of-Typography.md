@@ -4,12 +4,10 @@ date: "2016-02-02T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/a-brief-history-of-typography/"
-category: "Design Inspiration"
+category: "JAVASCRIPT"
 tags:
-  - "Linotype"
-  - "Monotype"
-  - "History of typography"
-  - "Helvetica"
+  - "javascript"
+  - "es6"
 description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
 ---
 

@@ -1,12 +1,12 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://largeone.netlify.com',
+  title: 'Largeone\'s Blog',
+  subtitle: '내가 볼려고 만든 블로그',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
-  postsPerPage: 4,
+  disqusShortname: 'Largeone',
+  postsPerPage: 100,
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
     {
@@ -23,14 +23,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Largeone',
+    photo: '/photo.png',
+    bio: '내가 볼려고 만든 블로그',
     contacts: {
-      email: '#',
+      email: 'jwna1227@gmail.com',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'Largeone',
       rss: '#',
       vkontakte: '#'
     }
