@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://largeone.netlify.com',
   title: 'Largeone\'s Blog',
-  subtitle: '내가 볼려고 만든 블로그',
+  subtitle: '내가 보려고 만든 블로그',
   copyright: '© All rights reserved.',
   disqusShortname: 'Largeone',
   postsPerPage: 100,
@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Largeone',
     photo: '/photo.png',
-    bio: '내가 볼려고 만든 블로그',
+    bio: '내가 보려고 만든 블로그',
     contacts: {
       email: 'jwna1227@gmail.com',
       telegram: '#',
