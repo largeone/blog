@@ -3,7 +3,7 @@ title: "About me"
 template: "page"
 ---
 프론트 개발자를 꿈꾸고있는 학부생
-
+`
 > Education
 
 대전대학교 컴퓨터공학과 (2014~)</br>
