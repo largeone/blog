@@ -2,7 +2,7 @@
 title: "About me"
 template: "page"
 ---
-프론트 개발자를 꿈꾸고있는 학부생
+프론트 엔드 개발자를 꿈꾸고있는 학부생
 
 > Education
 
