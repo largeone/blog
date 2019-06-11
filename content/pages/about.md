@@ -11,7 +11,7 @@ template: "page"
 
 > # Skills
 
-* HTML, css, javascript, Vue, React
+* HTML, css, javascript, Vue, React, python
 
 > # Assignment
 
